@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.flych.cn/sitemap.xml
